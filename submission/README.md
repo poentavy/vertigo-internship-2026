@@ -19,3 +19,6 @@
 
 
 ## Images or Video Demo
+
+In case the video is not working properly, I also uploaded it in Google Drive
+https://drive.google.com/file/d/1DiIghrb2xBUtZ0WT_prN3jqD-UF724w8/view?usp=sharing
